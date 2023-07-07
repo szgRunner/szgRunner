@@ -9,4 +9,4 @@ szgRunner/szgRunner is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![SzgRunner`s GitHub Stats](https://github-readme-stats.vercel.app/api?username=weibaohui)](https://github.com/weibaohui)
+[![SzgRunner`s GitHub Stats](https://github-readme-stats.vercel.app/api?username=szgRunner)](https://github.com/szgRunner)
